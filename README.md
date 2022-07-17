@@ -5,12 +5,12 @@
   <tr>
     <td>1</td>
      <td>2</td>
-     <td>3</td>
+      
   </tr>
   <tr>
     <td><img src="1.jpg"  </td>
     <td><img src="2.jpg"  ></td>
-    <td><img src="3.jpg"  </td>
+     
   </tr>
  </table>
 
@@ -33,4 +33,4 @@
 
 
 ### Circuit
-![](4.png)
+![](cd2.png)
