@@ -3,9 +3,9 @@
 ### Prototype
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>1</td>
+     <td>2</td>
+     <td>3</td>
   </tr>
   <tr>
     <td><img src="1.jpg"  </td>
@@ -14,10 +14,20 @@
   </tr>
  </table>
 
+<table>
+  <tr>
+    <td>1</td>
+     <td>2</td>
+    
+  </tr>
+  <tr>
+    <td><img src="gs1.png"  </td>
+    <td><img src="gs2.png"  ></td>
+   
+  </tr>
+ </table>
 
-|![pic1](1.jpg) |![pic2](2.jpg)|![pic2](3.jpg)|
-| :-----: | :-: |
-|![pic3](gs1.png) | ![pic4](gs2.png) |
+ 
  
  
 
