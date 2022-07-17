@@ -8,9 +8,9 @@
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="1.jpg" width=270 height=480></td>
-    <td><img src="2.jpg" width=270 height=480></td>
-    <td><img src="3.jpg" width=270 height=480></td>
+    <td><img src="1.jpg" width=300 height=480></td>
+    <td><img src="2.jpg" width=300 height=480></td>
+    <td><img src="3.jpg" width=300 height=480></td>
   </tr>
  </table>
 
